@@ -1,0 +1,6 @@
+population,n_responder,n_nonresponder,median_responder_pct,median_nonresponder_pct,u_statistic,p_value,p_value_bh,significant
+b_cell,993,975,9.43,9.79,459971.0,0.0557,0.1393,False
+cd8_t_cell,993,975,24.73,24.6,478176.0,0.6391,0.6391,False
+cd4_t_cell,993,975,30.22,29.66,515276.0,0.0133,0.0667,False
+nk_cell,993,975,14.51,14.8,464546.0,0.1211,0.2018,False
+monocyte,993,975,19.61,19.94,466510.0,0.1632,0.2039,False

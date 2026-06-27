@@ -1,0 +1,18 @@
+Baseline cohort: melanoma + miraclib + PBMC, time_from_treatment_start = 0
+
+Samples per project:
+project  n_samples
+   prj1        384
+   prj3        272
+
+Subjects by response:
+response  n_subjects
+      no         325
+     yes         331
+
+Subjects by sex:
+sex  n_subjects
+  F         312
+  M         344
+
+Average B cells (melanoma male responders, time=0): 10401.28  (n=184)
